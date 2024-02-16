@@ -1,4 +1,4 @@
-package junior
+package main
 
 import "testing"
 
